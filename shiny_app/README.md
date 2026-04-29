@@ -1,7 +1,7 @@
 # Poly(A) Shiny Supplement
 
 Hosted app:
-https://sascha-maschmann.shinyapps.io/shiny_app/
+https://sascha-maschmann.shinyapps.io/polyA_data/
 
 Run locally:
 
