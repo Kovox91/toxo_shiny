@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it using this metadata."
+title: "toxo_shiny: Dissertation supplement for Toxoplasma poly(A) Shiny app"
+abstract: "Interactive Shiny application and curated data for poly(A) tail length analysis in Toxoplasma gondii, provided as dissertation supplementary material."
+type: software
+authors:
+  - given-names: "Sascha"
+    family-names: "Maschmann"
+    email: "sascha.maschmann@hotmail.de"
+repository-code: "https://github.com/Kovox91/toxo_shiny"
+url: "https://github.com/Kovox91/toxo_shiny"
+license: "MIT"
+version: "dissertation_stable"
+date-released: "2026-04-29"
+keywords:
+  - "Toxoplasma gondii"
+  - "poly(A) tail"
+  - "Shiny"
+  - "R"
+  - "dissertation supplement"

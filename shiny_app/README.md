@@ -1,7 +1,7 @@
 # Poly(A) Shiny Supplement
 
 Hosted app:
-https://sascha-maschmann.shinyapps.io/polyA_data/
+https://sascha-maschmann.shinyapps.io/shiny_app/
 
 Run locally:
 
@@ -17,3 +17,8 @@ Required runtime files are included in this folder:
 - input data in `input/`
 - reference tables in `reference/`
 - reproducible package lockfile in `renv.lock`
+
+Licensing and citation are defined at repository root:
+- Code license: LICENSE (MIT)
+- Data license: LICENSE-data (CC BY 4.0)
+- Citation metadata: CITATION.cff
