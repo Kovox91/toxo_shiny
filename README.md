@@ -1,5 +1,5 @@
 # Dissertation Supplement: Poly(A) Shiny App
-
+[![DOI](https://zenodo.org/badge/1198860727.svg)](https://doi.org/10.5281/zenodo.19898061)
 Hosted app:
 https://sascha-maschmann.shinyapps.io/shiny_app/
 
