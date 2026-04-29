@@ -1,5 +1,6 @@
 # Data loading and preparation for Shiny app
-library(tidyverse)
+library(dplyr)
+library(readr)
 
 load_all_data <- function(base_path = ".") {
   
@@ -23,11 +24,6 @@ load_all_data <- function(base_path = ".") {
   stats_data <- readRDS(stats_file)
   
   # Load references
-  names_raw <- read_csv(
-    file.path(base_path, "reference/naming_help.csv"),
-    show_col_types = FALSE
-  )
-  
   polyA_shikha_raw <- read.delim2(
     file.path(base_path, "reference/shikha_polyA.tsv")
   )

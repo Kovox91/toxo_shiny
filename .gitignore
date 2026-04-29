@@ -12,18 +12,8 @@ renv/.cache/
 renv/python/
 renv/sandbox/
 
-# Binary data files (large input data — store separately)
-*.RDS
-*.rds
-
-# other input data
-reference/
-
 # Generated outputs
 out/
-
-# shinyapps.io deployment metadata
-rsconnect/
 
 # OS junk
 .DS_Store

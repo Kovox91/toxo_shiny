@@ -1,7 +1,7 @@
 # Plot generation module
 library(ggplot2)
 library(plotly)
-library(tidyverse)
+library(dplyr)
 
 theme_shiny <- function() {
   theme_bw(base_family = "Liberation Sans") +
